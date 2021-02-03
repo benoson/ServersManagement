@@ -1,0 +1,7 @@
+.home {
+    margin: auto auto 2rem auto;
+    width: fit-content;
+    padding: 1rem;
+    box-shadow: 0px 0px 16px 0px #adadad;
+    background-color: white;
+}

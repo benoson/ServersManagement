@@ -1,0 +1,38 @@
+.filterButtons {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    padding: 1rem 0;
+}
+
+.filterButtons input[type=radio] {
+    margin: 0 1rem;
+    cursor: pointer;
+}
+
+.filterHeaderDiv {
+    background: #49c0b6;
+    padding: 5px 0;
+}
+
+.filterHeaderDiv h2 {
+    text-align: center;
+    font-weight: 300;
+    color: white;
+}
+
+.clearFilterButton {
+    background: none;
+    font-size: 0.9rem;
+    font-family: inherit;
+    border: 1px solid #49c0b6;
+    border-radius: 15px;
+    padding: 2px 10px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    outline: none;
+}
+
+.clearFilterButton:hover {
+    box-shadow: 0px 0px 8px 0px lightslategray;
+}

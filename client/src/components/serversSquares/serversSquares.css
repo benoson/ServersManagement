@@ -1,0 +1,15 @@
+.serversSquaresSection {
+    width: fit-content;
+    min-width: 1050px;
+}
+
+.squaresHeaderDiv {
+    background: #49c0b6;
+    padding: 5px 0;
+}
+
+.squaresHeaderDiv h2 {
+    text-align: center;
+    font-weight: 300;
+    color: white;
+}

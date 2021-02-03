@@ -1,0 +1,18 @@
+.headerSection {
+    background-color: #49c0b6;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    box-shadow: 0px 0px 10px 0px lightslategray;
+}
+
+.headerLeft {
+    display: flex;
+}
+
+.headerLeft > span {
+    font-size: 1.2rem;
+    color: white;
+}

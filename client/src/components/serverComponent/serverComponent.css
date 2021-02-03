@@ -1,0 +1,46 @@
+.serverSquare {
+    padding: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.serverSquareLeft {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.serverSquare span {
+    color: #52565e;
+    font-size: 1.1rem;
+    font-weight: 300;
+}
+
+.serverImageDiv {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+
+.serverImage {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    border: 2px solid #49c0b6;
+}
+
+.serverSquareCenter span {
+    margin: 0 10px;
+}
+
+.serverSquareRight {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.serverSquareRight input[type=checkbox] {
+    margin: 10px 0;
+    cursor: pointer;
+}
